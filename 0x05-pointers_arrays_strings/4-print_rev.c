@@ -17,7 +17,7 @@ void print_rev(char *s)
 	}
 
 	s--;
-	
+
 	for (o = lens; o > 0; o--)
 	{
 		_putchar(*s);
